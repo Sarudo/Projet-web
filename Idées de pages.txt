@@ -1,8 +1,8 @@
-Idées de page :
+Page d'accueil
+5 pages obligatoires :
 - Historique
-- Accueil
 - Page tuteur
-- Remerciement
 - Galerie des robots
 - Enjeux / objectifs
-- Difficultés
+- DifficultÃ©s
+Page bonus : Remerciement
