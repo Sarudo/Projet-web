@@ -1,8 +1,0 @@
-Page d'accueil
-5 pages obligatoires :
-- Historique
-- Page tuteur
-- Galerie des robots
-- Enjeux / objectifs
-- Difficultés
-Page bonus : Remerciement
