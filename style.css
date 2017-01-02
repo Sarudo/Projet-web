@@ -1,4 +1,149 @@
-nav li
+html
 {
-	display:inline;
+	height : 100%
+}
+
+/* Général */
+
+body
+{
+	min-height : 100% ;
+	position : relative ;
+	font-family : candara ;
+	color : white ;
+	background-color : white;
+	font-size : 13pt ;
+	margin : 2% ;
+	margin-top : 60pt ;
+}
+
+a:link
+{
+	color : rgb(63, 77, 115) ;
+}
+
+a:visited
+{
+	color : rgb(63, 77, 115) ;
+}
+
+/* Barre de navigation rapide*/
+
+aside ul 
+{
+    width : 100% ;
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+	left : 0 ;
+	top : 0 ;
+    background-color: rgb(189, 198, 219);
+	position: fixed;
+}
+
+aside li
+{
+	float : left ;
+}
+
+aside li a
+{
+	text-decoration: none;
+	display: block;
+    color: white;
+	text-align : center ;
+    padding: 18pt 18pt ;
+}
+
+aside img
+{
+	width : 100%;
+}
+
+aside li a:hover
+{
+	color : rgb(140, 156, 192) ;
+	background-color : white ;
+}
+
+.active
+{
+	background-color : rgb(156, 168, 201) ;
+	color : white ;
+}
+
+.titre
+{
+	font-size : 20pt ;
+	padding : 12pt 12pt ;
+}
+
+
+/* Corps principale de la page */
+
+article
+{
+	text-align : justify ;
+	color : rgb(123, 141, 183)  ;
+}
+
+h1
+{
+	font-size : 20 pt ;
+}
+
+h2
+{
+	font-size : 16pt ;
+	color : rgb(123, 141, 183) ;
+}
+
+article a:hover
+{
+	color : rgb(140, 156, 192) ;
+}
+
+/* Titre */
+
+header
+{
+	color : rgb(123, 143, 183) ;
+}
+
+/* Pieds de page */
+
+footer ul
+{
+	background-color : rgb(173, 183, 210);
+	list-style-type: none;
+	position : fixed ;
+	width : 100% ;
+	margin : 0 ;
+	bottom : 0 ;
+	left : 0 ;
+	right : 0 ;
+	text-align : center ;
+}
+
+footer li
+{
+	display: inline;
+	padding: 16pt 16pt;
+}
+
+footer li a
+{
+    color: white;
+	text-decoration: none;
+}
+
+textarea
+{
+	width : 400pt ;
+	height : 200pt ;
+}
+
+img
+{
+	width : 200pt ;
 }
