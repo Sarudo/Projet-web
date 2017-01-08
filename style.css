@@ -154,11 +154,6 @@ img
 
 /* Tableau */
 
-table img
-{
-	min-height : 150pt ; 
-}
-
 td, th
 {
 	border : 2pt solid rgb(123, 143, 183);
@@ -170,7 +165,7 @@ table
 {
 	max-width : 90% ;
 	min-height : 90% ;
-	margin-left : 10% ;
+	margin-left : 5% ;
 	margin-bottom : 5% ; 
 }
 
